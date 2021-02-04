@@ -18,6 +18,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhyanalves68@gmail.com)](mailto:rhyanalves68@gmail.com)
  
  <br/>
- <br/>
  
 ### Thanks for visiting...
