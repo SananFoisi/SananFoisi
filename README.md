@@ -4,18 +4,14 @@
 ## Welcome! to my profile 💻!
 
 ### My name is Rhyan, and...
+  
  
-Insira suas descrições aqui!
- 
- 
-😄 I really like to learn
-📚 Currently majoring in Software Engineering
-💻 Possessing some courses
-🌍 And I also like to travel
+- 😄 I really like to learn
+- 📚 Currently majoring in Software Engineering
+- 💻 Possessing some courses
+- 🌍 And I also like to travel
 
 
-
- 
  
 ## About me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhyan-inacio/)](https://www.linkedin.com/in/rhyan-inacio/)
@@ -23,5 +19,3 @@ Insira suas descrições aqui!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhyanalves68@gmail.com)](mailto:rhyanalves68@gmail.com)
  
 - Thanks for visiting. 
- 
-- Enjoy it!!
