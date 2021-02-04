@@ -13,9 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋
-
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rhyan-inacio/) 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rhyan.in/) 
+### Hi 👋<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+ 
+# Welcome!
+ 
+## I'm Rhyan!
+ 
+… Insira suas descrições aqui!
+ 
+ 
+## About me 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhyan-inacio/)](https://www.linkedin.com/in/rhyan-inacio/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5538999940983&text=Hello!)](https://api.whatsapp.com/send?phone=5538999940983&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhyanalves68@gmail.com)](mailto:rhyanalves68@gmail.com)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
