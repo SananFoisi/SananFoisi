@@ -1,11 +1,20 @@
 
-### Helloo!  👋<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+# Helloo! 👋 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
-# Welcome! to my profile
- 
-## I'm Rhyan!
+## Welcome! to my profile 💻!
+
+### My name is Rhyan, and...
  
 Insira suas descrições aqui!
+ 
+ 
+😄 I really like to learn
+📚 Currently majoring in Software Engineering
+💻 Possessing some courses
+🌍 And I also like to travel
+
+
+
  
  
 ## About me 
