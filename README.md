@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+### Helloo!  👋<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
-# Welcome!
+# Welcome! to my profile
  
 ## I'm Rhyan!
  
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Enjoy it!!
